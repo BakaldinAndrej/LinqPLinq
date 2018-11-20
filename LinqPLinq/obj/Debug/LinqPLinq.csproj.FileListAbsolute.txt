@@ -1,0 +1,7 @@
+C:\Users\Андрей\source\repos\LinqPLinq\LinqPLinq\bin\Debug\LinqPLinq.exe.config
+C:\Users\Андрей\source\repos\LinqPLinq\LinqPLinq\bin\Debug\LinqPLinq.exe
+C:\Users\Андрей\source\repos\LinqPLinq\LinqPLinq\bin\Debug\LinqPLinq.pdb
+C:\Users\Андрей\source\repos\LinqPLinq\LinqPLinq\obj\Debug\LinqPLinq.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\source\repos\LinqPLinq\LinqPLinq\obj\Debug\LinqPLinq.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\source\repos\LinqPLinq\LinqPLinq\obj\Debug\LinqPLinq.exe
+C:\Users\Андрей\source\repos\LinqPLinq\LinqPLinq\obj\Debug\LinqPLinq.pdb

@@ -1,0 +1,6 @@
+C:\Users\Андрей\source\repos\LinqPLinq\LinqPLinq\bin\Release\LinqPLinq.exe.config
+C:\Users\Андрей\source\repos\LinqPLinq\LinqPLinq\bin\Release\LinqPLinq.exe
+C:\Users\Андрей\source\repos\LinqPLinq\LinqPLinq\bin\Release\LinqPLinq.pdb
+C:\Users\Андрей\source\repos\LinqPLinq\LinqPLinq\obj\Release\LinqPLinq.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\source\repos\LinqPLinq\LinqPLinq\obj\Release\LinqPLinq.exe
+C:\Users\Андрей\source\repos\LinqPLinq\LinqPLinq\obj\Release\LinqPLinq.pdb
